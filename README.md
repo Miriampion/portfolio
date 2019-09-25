@@ -2,9 +2,9 @@
 
 #### [miriamp.ca](https://miriamp.ca)
 
-![imageof me](images/moi.jpg)
+![image of me](images/Moi.jpg)
 
-Miriam is a designer and experience enhancer based in Ottawa
+Miriam is a graphic designer and food lover based in Ottawa.
 
--**[design@miriamp.ca] (mailto:design@miriamp.ca)**
--[GitHub] (https://github.com/miriampion)
+-**[design@miriamp.ca](mailto:design@miriamp.ca)**
+-[GitHub](https://github.com/miriampion)
