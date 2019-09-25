@@ -2,7 +2,7 @@
 
 #### [miriamp.ca](https://miriamp.ca)
 
-![](photo.jpg)
+![](moi.jpg)
 
 Miriam is a designer and experience enhancer based in Ottawa
 
