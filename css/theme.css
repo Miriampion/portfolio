@@ -22,121 +22,121 @@ h1 {
 
 h2 {
   font-weight: bold 700;
-  font-family: var(--font-primary);
+  font-family: var(--font-tertiary);
   color: var(--color-primary-dark);
 }
 h3 {
-  font-weight: 400;
-  font-family:  var(--font-secondary);
-  color: var(--color-neutral-dark-grey);
+  font-weight: bold 700;
+  font-family:  var(--font-primary);
+  color: var(--color-primary-dark);
 }
 
 h4 {
   font-weight: 400;
-  font-family: var(--font-secondary);
-  color: var(--color-neutral-dark-grey);
+  font-family: var(--font-primary);
+  color: var(--color-primary);
 }
 
 h5 {
   font-weight: 400;
-  font-family: var(--font-secondary);
-  color: var(--color-neutral-dark-grey);
+  font-family: var(--font-primary);
+  color: var(--color-primary-dark);
 }
 h6
 ul {
-  font-weight: 700;
-  font-family: var(--font-secondary);
-  color: var(--color-neutral-dark-grey);
+  font-weight: 400;
+  font-family: var(--font-primary);
+  color: var(--color-primary-dark);
 
 }
 ol {
   font-weight: 400;
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
   color: var(--color-neutral-dark-grey);
 }
 dl {
   font-weight: 400;
-  font-family:  var(--font-secondary);
+  font-family:  var(--font-primary);
   color: var(--color-neutral-dark-grey);
 }
 a {
   font-weight: 700;
-  font-family: var(--font-secondary);
-  color: var(--color-primary);
+  font-family: var(--font-primary);
+  color: var(--color-accent);
 }
 blockquote {
-  font-weight: 400;
-  font-family: var(--font-secondary);
-  color: var(--color-primary: #701647);
+  font-weight: bold 700;
+  font-family: var(--font-primary);
+  color: var(--color-accent);
 }
 cite {
   font-weight: 300;
-  font-family: var(--font-secondary);
-  color: var(--color-neutral-dark-grey);
+  font-family: var(--font-primary);
+  color: var(--color-accent);
 }
 em {
   font-weight: 700;
-  font-family: var(--font-secondary);
-  color: var(--color-neutral-dark-grey);
+  font-family: var(--font-primary);
+  color: var(--color-primary-dark);
 }
 strong {
   font-weight: 700;
-  font-family: var(--font-secondary);
-  color: var(--color-neutral-dark-grey);
+  font-family: var(--font-primary);
+  color: var(--color-primary-dark);
 }
 del {
   font-weight: 300, italic;
-  font-family: var(--font-secondary);
-  color: var(--color-neutral-dark-grey);
+  font-family: var(--font-primary);
+  color: var(--color-primary-dark);
 }
 
 ins {
   font-weight: 300, italic;
-  font-family: var(--font-secondary);
-  color: var(----color-primary);)
+  font-family: var(--font-primary);
+  color: var(--color-primary);)
 }
 
 abbr {
   font-weight: 400, italic;
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
   color: var(--color-neutral-dark-grey);
 }
 dfn {
   font-weight: 300, italic;
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
   color: var(--color-neutral-dark-grey);
 }
 i {
   font-weight: 300, italic;
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
   color: var(--color-neutral-dark-grey);
 }
 b {
   font-weight: 700;
-  font-family: var(--font-secondary);
-  color: var(--color-neutral-dark-grey);
+  font-family: var(--font-primary);
+  color: var(--color-primary);
 }
 mark {
   font-weight: 700;
-  font-family: var(--font-secondary);
-  color: var(--color-primary-light);
-  background-color:var(--color-light-yellow);
+  font-family: var(--font-primary);
+  color: var(--color-secondary-light);
+  background-color:var(--color-primary);
 }
 q {
   font-weight: 400;
-  font-family: var(--font-secondary);
-  color: var(--color-primary-light);
+  font-family: var(--font-primary);
+  color: var(--color-primary);
 }
 s {
   font-weight: 300, italic;
-  font-family: var(--font-secondary);
-  color: var(--color-neutral-grey);
+  font-family: var(--font-primary);
+  color: var(--color-primary);
 
 }
 u {
   font-weight: 700;
-  font-family: var(--font-secondary);
-  color: var(--color-primary-light);
+  font-family: var(--font-primary);
+  color: var(--color-primary);
 }
 
 .violet-text {
@@ -144,5 +144,5 @@ u {
 }
 
 .back-ground {
-  background-color: var(--color-light-grey);
+  background-color: var(--color-secondary-light);
 }

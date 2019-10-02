@@ -1,3 +1,26 @@
 permalink: pretty
 
 theme: jekyll_patternbot
+
+patternbot:
+  title: "Miriam P."
+  description: |
+    "Miriam Pion's Portfolio wesite"
+  font_url: "https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,700|Playfair+Display&display=swap"
+
+    colors:
+    # background: "--color-secondary-light"
+    accent: "--color-primary"
+    patterns:
+        brand.logos: "--color-secondary-light"
+  rationales:
+    typefaces.primary:
+      PT Sans is used as a young and fresh for the whole website, especially for body copy and subheadings.
+    typefaces.secondary:
+      Playfair Display is used as secondary and for major headings and titles, only used for large sizes.
+    colors.primary:
+      The primary colour was chosen for its vintage feel and it's contrast for accessibility. It is fresh, crisp, simple and appeals to the artistic sensibilties of the demographic. it is a darker grey so it stands out but does not outshine the works of the portfolio.
+    colors.secondary:
+      The secondary colours of light grey and white are a neutral and unobtrusive background for showcasing work.
+    colors.accent:
+      The second colour was chosen for it's contrast to the primary colour. They are complementary and it adds a touch of brightness to the colour scheme. The teal is used for links and accent lines as well as quotes.
