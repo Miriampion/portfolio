@@ -1,5 +1,6 @@
 :root {
   --color-primary: #595959;
+  --color-primary-dark: #303035;
   --color-secondary: #EEEEEE;
   --color-secondary-light: #FCFAF9;
   --color-accent: #057A87;
@@ -12,4 +13,136 @@
 
 html {
   font-family: var(--font-primary)
+}
+h1 {
+  font-weight: 700;
+  font-family: var(--font-tertiary);
+  color: var(--color-primary-dark);
+}
+
+h2 {
+  font-weight: 400;
+  font-family: var(--font-primary);
+  color: var(--color-neutral-dark-grey);
+}
+h3 {
+  font-weight: 400;
+  font-family:  var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+}
+
+h4 {
+  font-weight: 400;
+  font-family: var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+}
+
+h5 {
+  font-weight: 400;
+  font-family: var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+}
+h6
+ul {
+  font-weight: 700;
+  font-family: var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+
+}
+ol {
+  font-weight: 400;
+  font-family: var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+}
+dl {
+  font-weight: 400;
+  font-family:  var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+}
+a {
+  font-weight: 700;
+  font-family: var(--font-secondary);
+  color: var(--color-primary);
+}
+blockquote {
+  font-weight: 400;
+  font-family: var(--font-secondary);
+  color: var(--color-primary: #701647);
+}
+cite {
+  font-weight: 300;
+  font-family: var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+}
+em {
+  font-weight: 700;
+  font-family: var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+}
+strong {
+  font-weight: 700;
+  font-family: var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+}
+del {
+  font-weight: 300, italic;
+  font-family: var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+}
+
+ins {
+  font-weight: 300, italic;
+  font-family: var(--font-secondary);
+  color: var(----color-primary);)
+}
+
+abbr {
+  font-weight: 400, italic;
+  font-family: var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+}
+dfn {
+  font-weight: 300, italic;
+  font-family: var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+}
+i {
+  font-weight: 300, italic;
+  font-family: var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+}
+b {
+  font-weight: 700;
+  font-family: var(--font-secondary);
+  color: var(--color-neutral-dark-grey);
+}
+mark {
+  font-weight: 700;
+  font-family: var(--font-secondary);
+  color: var(--color-primary-light);
+  background-color:var(--color-light-yellow);
+}
+q {
+  font-weight: 400;
+  font-family: var(--font-secondary);
+  color: var(--color-primary-light);
+}
+s {
+  font-weight: 300, italic;
+  font-family: var(--font-secondary);
+  color: var(--color-neutral-grey);
+
+}
+u {
+  font-weight: 700;
+  font-family: var(--font-secondary);
+  color: var(--color-primary-light);
+}
+
+.violet-text {
+  color: var(--color-primary);
+}
+
+.back-ground {
+  background-color: var(--color-light-grey);
 }
