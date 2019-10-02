@@ -1,10 +1,9 @@
 :root {
-  --color-primary:
-  --color-secondary:
-  --color-secondary-light:
-  --color-accent:
-  --color-dark-grey:
-  --color-light-grey:
+  --color-primary: #EEEEEE;
+  --color-secondary: #595959;
+  --color-secondary-light: #8D8E8E;
+  --color-accent: #057A87;
+
 
   --font-primary:;
   --font-secondary:;
