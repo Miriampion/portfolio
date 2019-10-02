@@ -5,8 +5,8 @@
   --color-accent: #057A87;
 
 
-  --font-primary:;
-  --font-secondary:;
+  --font-primary: 'PT Sans', sans-serif;
+  --font-secondary: 'Abril Fatface', cursive;
 }
 
 html {
