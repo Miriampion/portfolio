@@ -1,0 +1,13 @@
+.beet {
+  border-bottom: solid 3px var(--color-accent);
+}
+
+img {
+  max-width: 1050px;
+  opacity: .12;
+}
+
+.grey {
+  color: #595959;
+  text-decoration: none;
+}
