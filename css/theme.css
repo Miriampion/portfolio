@@ -1,12 +1,12 @@
 :root {
-  --color-primary: #EEEEEE;
-  --color-secondary: #595959;
+  --color-primary: #595959;
+  --color-secondary: #EEEEEE;
   --color-secondary-light: #8D8E8E;
   --color-accent: #057A87;
 
 
   --font-primary: 'PT Sans', sans-serif;
-  --font-secondary: 'Abril Fatface', cursive;
+  --font-secondary: 'Abril Fatface', serif;
 }
 
 html {
