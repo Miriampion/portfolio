@@ -15,15 +15,15 @@ html {
   font-family: var(--font-primary)
 }
 h1 {
-  font-weight: 700;
+  font-weight: bold 700;
   font-family: var(--font-tertiary);
   color: var(--color-primary-dark);
 }
 
 h2 {
-  font-weight: 400;
+  font-weight: bold 700;
   font-family: var(--font-primary);
-  color: var(--color-neutral-dark-grey);
+  color: var(--color-primary-dark);
 }
 h3 {
   font-weight: 400;
