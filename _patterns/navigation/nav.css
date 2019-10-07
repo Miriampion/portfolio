@@ -1,13 +1,44 @@
 .beet {
   border-bottom: solid 3px var(--color-accent);
+  background-image: url("../images/beet.png");
+  background-size: cover;
+  min-height: 50px;
+  background-position: center center;
 }
 
-img {
-  max-width: 1050px;
-  opacity: .12;
+.title {
+  font-size: 70px;
+}
+nav {
+  font-size: 25px;
 }
 
 .grey {
   color: #595959;
   text-decoration: none;
+}
+
+@media only screen and (min-width: 360px) {
+
+  .title {
+    font-size: 80px;
+  }
+}
+
+@media only screen and (min-width: 608px) {
+
+  .title {
+    position: absolute;
+    bottom: 10%;
+    left:12%;
+    font-size: 90.4416px;
+  }
+
+  .beet {
+    min-height: 400px;
+  }
+
+  li {
+    display: inline-block;
+  }
 }
