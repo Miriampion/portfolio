@@ -1,14 +1,23 @@
 .beet {
-  border-bottom: solid 3px var(--color-accent);
   background-image: url("../images/beet.png");
   background-size: cover;
   min-height: 50px;
   background-position: center center;
 }
 
+.blueline {
+  border-bottom: solid 3px var(--color-accent);
+  height: 0px;
+  width: 88%;
+  bottom: 0%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 .title {
   font-size: 70px;
 }
+
 nav {
   font-size: 25px;
 }

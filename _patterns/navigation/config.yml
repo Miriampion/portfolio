@@ -1,2 +1,13 @@
-title:
+title: "Navigation"
 description: |
+  This will be the
+
+patterns:
+  nav:
+    title: "Main Navigation"
+    description: |
+      This is the navigation on top of the main home page. This is also the base for all remaining pages, included in secondary navigation.
+  second-nav:
+    title: "Other pages Navigation"
+    description: |
+      This navigation will include the different pages and their titles as well as tab arrows for moving back and forthj between pages.
