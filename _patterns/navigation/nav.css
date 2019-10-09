@@ -8,9 +8,9 @@
 
 .artichoke {
   background-image: url("../images/artichaux-3.png");
-  background-size: cover;
+  background-size: 175%;
   min-height: 50px;
-  background-position: center -15px;
+  background-position: center center;
   background-repeat: no-repeat;
 }
 
@@ -41,6 +41,11 @@ nav {
   .title {
     font-size: 80px;
   }
+  .artichoke {
+    min-height: 400px;
+    background-size: 200%;
+    background-position: center 30%;
+  }
 }
 
 @media only screen and (min-width: 38em) {
@@ -60,11 +65,19 @@ nav {
 
   .artichoke {
     min-height: 400px;
-    background-size: cover;
+    background-size: 200%;
     background-position: center center;
   }
 
-  li {
+  .nav-top {
     display: inline-block;
+  }
+}
+
+@media only screen and (min-width: 60em) {
+  .artichoke {
+    min-height: 400px;
+    background-size: 120%;
+    background-position: center center;
   }
 }

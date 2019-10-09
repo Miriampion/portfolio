@@ -1,0 +1,20 @@
+.bottom {
+  display: block;
+}
+
+.blue-link {
+  text-decoration: none;
+  border-bottom: solid 3px var(--color-accent);
+}
+
+@media only screen and (min-width: 25em) {
+  .bottom {
+    text-align: right;
+  }
+}
+
+@media only screen and (min-width: 38em) {
+  .bottom {
+    text-align: right;
+  }
+}

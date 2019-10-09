@@ -62,7 +62,7 @@ dl {
 a {
   font-weight: 700;
   font-family: var(--font-primary);
-  color: var(--color-accent);
+  color: var(--color-primary);
 }
 blockquote {
   font-weight: bold 700;
