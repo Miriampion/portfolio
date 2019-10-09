@@ -7,10 +7,11 @@
 }
 
 .artichoke {
-  background-image: url("../images/artichaux-2.png");
+  background-image: url("../images/artichaux-3.png");
   background-size: cover;
   min-height: 50px;
-  background-position: center center;
+  background-position: center -15px;
+  background-repeat: no-repeat;
 }
 
 .blueline {
@@ -60,6 +61,7 @@ nav {
   .artichoke {
     min-height: 400px;
     background-size: cover;
+    background-position: center center;
   }
 
   li {
