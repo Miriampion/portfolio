@@ -5,6 +5,13 @@
   background-position: center center;
 }
 
+.artichoke {
+  background-image: url("../images/artichaux-2.png");
+  background-size: cover;
+  min-height: 50px;
+  background-position: center center;
+}
+
 .blueline {
   border-bottom: solid 3px var(--color-accent);
   height: 0px;
@@ -44,6 +51,10 @@ nav {
   }
 
   .beet {
+    min-height: 400px;
+  }
+
+  .artichoke {
     min-height: 400px;
   }
 
