@@ -2,6 +2,15 @@
   text-align: center;
   padding-left: 30px;
   padding-right: 30px;
+
+}
+
+.absolute {
+  height: 0px;
+  width: 88%;
+  bottom: 50%;
+  right: 5%;
+  transform: translateX(50% -50%);
 }
 
 .quote-box  {
@@ -10,9 +19,11 @@
 
 @media only screen and (min-width: 38em) {
 
+
   .quote {
     padding-left: 100px;
     padding-right: 100px;
+    font-size: 120%;
 }
 
 @media only screen and (min-width: 60em) {
@@ -20,6 +31,14 @@
   .quote {
     padding-left: 140px;
     padding-right: 140px;
+  }
+  .absolute {
+      height: 0px;
+      width: 88%;
+      bottom: 60%;
+      right: 5%;
+      transform: translateX(50% -50%);
+    }
 }
 
 @media only screen and (min-width: 90em) {
