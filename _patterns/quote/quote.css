@@ -1,0 +1,31 @@
+.quote {
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.quote-box  {
+  height: 30em;
+}
+
+@media only screen and (min-width: 38em) {
+
+  .quote {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .quote {
+    padding-left: 140px;
+    padding-right: 140px;
+}
+
+@media only screen and (min-width: 90em) {
+
+  .quote {
+    padding-left: 140px;
+    padding-right: 140px;
+}
+}
