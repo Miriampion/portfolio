@@ -2,10 +2,6 @@
   text-align: center;
   padding-left: 30px;
   padding-right: 30px;
-
-}
-
-.quote {
   height: 0px;
   width: 88%;
   bottom: 50%;
@@ -19,7 +15,6 @@
 
 @media only screen and (min-width: 38em) {
 
-
   .quote {
     padding-left: 100px;
     padding-right: 100px;
@@ -32,6 +27,7 @@
     padding-left: 140px;
     padding-right: 140px;
   }
+
   .quote {
       height: 0px;
       width: 88%;
