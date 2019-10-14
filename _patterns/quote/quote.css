@@ -5,7 +5,7 @@
 
 }
 
-.absolute {
+.quote {
   height: 0px;
   width: 88%;
   bottom: 50%;
@@ -32,7 +32,7 @@
     padding-left: 140px;
     padding-right: 140px;
   }
-  .absolute {
+  .quote {
       height: 0px;
       width: 88%;
       bottom: 60%;
