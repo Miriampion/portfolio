@@ -3,10 +3,10 @@ description: |
   This will be the buttons
 
 patterns:
-  mail-btn:
+  btn:
     title: "Email link"
     description: |
-      This is the navigation on top of the main home page. This is also the base for all remaining pages, included in secondary navigation.
+      This is the main button style used, it will be used to link to the email.
   nav-btn:
     title: "navigating prev and forw"
     description: |
