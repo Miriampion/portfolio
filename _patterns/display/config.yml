@@ -1,0 +1,13 @@
+title: "Display"
+description: |
+  This will be the main navigation
+
+patterns:
+  display-home:
+    title: "Main page photo display"
+    description: |
+      This is the main page photo display.This will show four pictures of art that will link to subsequent pages.
+  display-2:
+    title: "Secondary display with titles"
+    description: |
+      This display will be used for the extras pages because there are subtitles and subsequent description for the work.
