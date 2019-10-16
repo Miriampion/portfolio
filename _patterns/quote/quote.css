@@ -9,15 +9,12 @@
   transform: translateX(50% -50%);
 }
 
-.quote-box  {
-  height: 30em;
-}
 
 @media only screen and (min-width: 38em) {
 
   .quote {
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
     font-size: 120%;
 }
 
