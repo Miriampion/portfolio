@@ -1,0 +1,13 @@
+title: "Buttons"
+description: |
+  This will be the buttons
+
+patterns:
+  mail-btn:
+    title: "Email link"
+    description: |
+      This is the navigation on top of the main home page. This is also the base for all remaining pages, included in secondary navigation.
+  nav-btn:
+    title: "navigating prev and forw"
+    description: |
+      This will be forward and back buttons to navigate through pages.
