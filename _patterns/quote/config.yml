@@ -1,0 +1,9 @@
+title: "Quote"
+description: |
+  This will be the quote section
+
+patterns:
+  quote:
+    title: "Quote"
+    description: |
+      This is an area for one quote, the quote will be the accent colour and it will be surrounded by white space.
