@@ -1,0 +1,9 @@
+title: "Footer"
+description: |
+  This will be the footer for all pages.
+
+patterns:
+  footer:
+    title: "Footer"
+    description: |
+      This is the footer for every page.
