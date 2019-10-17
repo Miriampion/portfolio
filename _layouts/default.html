@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+<head>
+  <meta charset="utf-8">
+  <title>MiriamP.</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link href="/css/main.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,700|Playfair+Display&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <ul class="skip-links">
+    <li><a href="#main">Jump to main content</a></li>
+    <li><a href="#nav">Jump to navigation</a></li>
+  </ul>
+  <header role="banner" class="masthead" id="header">
+    {% pattern navigation/nav %}
+  </header>
+  <main>
+    {{content}}
+  </main>
+  {% pattern footer/footer %}
+
+</body>
+</html>

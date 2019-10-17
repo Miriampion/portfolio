@@ -16,9 +16,9 @@
 
 .blueline {
   border-bottom: solid 3px var(--color-accent);
-  height: 0px;
+  height: 0;
   width: 88%;
-  bottom: 0%;
+  bottom: 0;
   left: 50%;
   transform: translateX(-50%);
 }
@@ -27,7 +27,7 @@
   font-size: 70px;
 }
 
-nav {
+.nav {
   font-size: 25px;
 }
 
