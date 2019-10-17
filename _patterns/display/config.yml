@@ -19,7 +19,13 @@ patterns:
     title: "Fourth display with No title"
     description: |
       This display will be used for the description of the photo, no heading here as it is a simple description and follows a heading display.
-  display-4:
+  display-5:
     title: "Fifh display with No title, photo on right"
     description: |
         This display will be used for the description of the photo, but on the opposite side. No heading here as it is a simple description and follows a heading display.
+    fields:
+      - name: data
+        type: object
+        data:
+          source: "site.display[0]"
+          type: Display
