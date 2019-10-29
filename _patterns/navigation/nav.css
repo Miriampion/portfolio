@@ -14,6 +14,14 @@
   background-repeat: no-repeat;
 }
 
+.citrus {
+  background-image: url("../images/citrus-banner.png");
+  background-size: 175%;
+  min-height: 50px;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
 .blueline {
   border-bottom: solid 3px var(--color-accent);
   height: 0;
