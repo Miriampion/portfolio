@@ -1,6 +1,6 @@
 # robotstxt.org
 
-Sitemap: http://miriamp.ca/sitemap.xml
+Sitemap: http://miriamp.co/sitemap.xml
 
 User-Agent: *
 Disallow:
