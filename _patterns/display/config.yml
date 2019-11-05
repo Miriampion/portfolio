@@ -11,6 +11,14 @@ patterns:
     title: "Secondary display with titles"
     description: |
       This display will be used for the extras pages because there are subtitles and subsequent description for the work.
+    fields:
+        - name: heading
+          type: string
+          example: "Research & Background"
+        - name: text
+          type: string
+          example: "StoryBee is a local Apiary that produces raw honey products and encourages education about bees and the environment. The beekeeper, Kristine, is passionate about mental health and how bees relate to holistic health for marginalized populations"
+
   display-3:
     title: "Third display with one title"
     description: |
