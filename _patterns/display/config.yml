@@ -17,7 +17,7 @@ patterns:
           example: "Research & Background"
         - name: text
           type: string
-          example: "StoryBee is a local Apiary that produces raw honey products and encourages education about bees and the environment. The beekeeper, Kristine, is passionate about mental health and how bees relate to holistic health for marginalized populations"
+          example: "StoryBee is a local Apiary that produces raw honey products and encourages education about bees and their vital relationship to the environment. The beekeeper, Kristine, is passionate about mental health and how bees relate to holistic health for marginalized populations"
 
   display-3:
     title: "Third display with one title"

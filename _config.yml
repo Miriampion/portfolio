@@ -18,7 +18,7 @@ patternbot:
     typefaces.secondary:
       Playfair Display is used as secondary and for major headings and titles, only used for large sizes.
     colors.primary:
-      The primary colour was chosen for its vintage feel and it's contrast for accessibility. It is fresh, crisp, simple and appeals to the artistic sensibilties of the demographic. it is a darker grey so it stands out but does not outshine the works of the portfolio.
+      The primary colour was chosen for its vintage feel and it's contrast for accessibility. It is fresh, crisp, simple and appeals to the artistic sensibilties of the demographic. It is a darker grey so it stands out but does not outshine the works of the portfolio.
     colors.secondary:
       The secondary colours of light grey and white are a neutral and unobtrusive background for showcasing work.
     colors.accent:
