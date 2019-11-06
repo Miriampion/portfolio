@@ -15,7 +15,7 @@
 }
 
 .citrus {
-  background-image: url("../images/citrus-banner-1.png");
+  background-image: url("../images/citron-banner.png");
   background-size: 75%;
   min-height: 50px;
   background-position: center center;
@@ -74,6 +74,12 @@
   .artichoke {
     min-height: 400px;
     background-size: 200%;
+    background-position: center center;
+  }
+
+  .citrus {
+    min-height: 400px;
+    background-size: 100%;
     background-position: center center;
   }
 
