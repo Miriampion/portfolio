@@ -1,5 +1,7 @@
 ---
 layout: work
+name: "Branding"
+show_second_nav: true
 pieces:
   - img: beekeeper.png
     title: StoryBee. A sweet experience.

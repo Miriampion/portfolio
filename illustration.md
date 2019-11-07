@@ -1,5 +1,7 @@
 ---
 layout: work
+name: "Illustration"
+show_second_nav: true
 pieces:
   - img: sketchbook-1-bee.png
     title: hello

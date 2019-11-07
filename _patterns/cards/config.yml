@@ -1,0 +1,14 @@
+title: "Cards"
+description: |
+  Cards can be combined with images and throughout section grids.
+patterns:
+  main-card:
+    title: "Card"
+    description: |
+    These are the main cards that link to all the pages.
+    - name: url
+      type: url
+      example: "#"
+    - name: image
+      type: string
+      example: "poppy.jpg"

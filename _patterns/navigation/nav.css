@@ -44,6 +44,11 @@
   text-decoration: none;
 }
 
+.top-title {
+  text-decoration: none;
+  font-family: var(--font-tertiary);
+}
+
 @media only screen and (min-width: 25em) {
 
   .title {
