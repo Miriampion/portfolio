@@ -18,6 +18,8 @@ From this site this site
 
 # TECHNOLOGY
 
+https://en.wikipedia.org/wiki/Pysanka egg picture
+
 ## Software
 
 (Write what software you’re using)
