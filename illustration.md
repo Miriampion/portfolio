@@ -2,7 +2,7 @@
 layout: work
 pieces:
   - img: sketchbook-1-bee.png
-    title: StoryBee, a sweet brand experience.
+    title: hello
     desc: Lots of sketches leading into the history of the beekeeper, beekeeper and community feel. Branding was done for the honey jars and business cards.
   - img: sketchbook-2-bee.png
     title: Digital Painting

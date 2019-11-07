@@ -4,7 +4,7 @@
   padding-right: 30px;
   height: 0px;
   width: 88%;
-  bottom: 50%;
+  bottom: 75%;
   left: 50%;
   transform: translateX(-50%);
 }
@@ -26,22 +26,22 @@
 @media only screen and (min-width: 60em) {
 
   .quote {
-    padding-left: 140px;
-    padding-right: 140px;
-  }
-
-  .quote {
-      height: 0px;
       width: 88%;
-      bottom: 60%;
+      bottom: 75%;
       left: 50%;
       transform: translateX(-50%);
+      padding-left: 140px;
+      padding-right: 140px;
     }
 }
 
 @media only screen and (min-width: 90em) {
 
   .quote {
+    width: 88%;
+    bottom: 75%;
+    left: 50%;
+    transform: translateX(-50%);
     padding-left: 140px;
     padding-right: 140px;
 }
