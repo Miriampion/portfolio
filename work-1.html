@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{% pattern navigation/illustration-nav text="Illustration" %}
 {% for piece in page.pieces %}
   {% pattern display/display-2 heading=piece.title text=piece.desc image=piece.img %}
 {% endfor %}
