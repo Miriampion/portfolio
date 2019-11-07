@@ -3,9 +3,10 @@ description: |
   Cards can be combined with images and throughout section grids.
 patterns:
   main-card:
-    title: "Card"
+    title: "Main Card"
     description: |
-    These are the main cards that link to all the pages.
+      These are the main cards that link to all the pages.
+    fields:
     - name: url
       type: url
       example: "#"
