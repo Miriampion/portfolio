@@ -3,9 +3,9 @@ layout: work
 name: "Illustration"
 show_second_nav: true
 pieces:
-  - img: sketchbook-1-bee.png
-    title: hello
-    desc: Lots of sketches leading into the history of the beekeeper, beekeeper and community feel. Branding was done for the honey jars and business cards.
+  - img: theatre-poster.jpg
+    title: Theatre poster
+    desc: Poster made for a local theatre. A story of vintage medicine and snakelike caniving...
   - img: sketchbook-2-bee.png
     title: Digital Painting
     desc: A photograph I took of a poppy, digitally painted using Photoshop pastels. I am obsessed with flowers and gardening and nature.
