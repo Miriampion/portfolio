@@ -8,6 +8,20 @@ a.main-card:hover .card-content::before {
   bottom: 0;
 }
 
+.word {
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: 50%;
+  bottom: 50%;
+}
+
+.word:hover {
+  opacity: 1;
+  transition: all .5s ease-in;
+}
+
 .main-card {
   opacity: 1;
   width: 100%;
@@ -18,4 +32,5 @@ a.main-card:hover .card-content::before {
 .main-card:hover {
   opacity: 1;
   filter: grayscale(0%);
+  transition: all .5s ease-in;
 }
