@@ -8,6 +8,8 @@ patterns:
     description: |
       This is an area for one quote, the quote will be the accent colour and it will be surrounded by white space.
     fields:
-    - name: text
-      type: string
-      example: "Change Quote here"
+        - name: data
+          type: object
+          data:
+            source: "site.quotes[0]"
+            type: quote

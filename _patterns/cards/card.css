@@ -9,17 +9,15 @@ a.main-card:hover .card-content::before {
 }
 
 .word {
-  opacity: 0;
+  opacity: 1;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  right: 50%;
-  bottom: 50%;
+  color: #b1b1b1;
 }
 
-.word:hover {
+.main-card:hover .word {
   opacity: 1;
-  transition: all .5s ease-in;
+  transition: all .5s ease-out;
+  font-size: 2em;
 }
 
 .main-card {
