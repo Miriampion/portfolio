@@ -7,15 +7,12 @@ patterns:
     title: "Main Navigation"
     description: |
       This is the navigation on top of the main home page. This is also the base for all remaining pages, included in secondary navigation.
-  second-nav:
-    title: "Other pages Navigation"
-    description: |
-      This navigation will include the different pages and their titles as well as tab arrows for moving back and forth between pages.
-  illustration-nav:
-    title: "Other pages Navigation"
-    description: |
-      This navigation will include the different pages and their titles as well as tab arrows for moving back and forth between pages.
     fields:
-    - name: text
-      type: string
-      example: "header on banner"
+      - name: banner_title
+        example: "MiriamP."
+      - name: banner_class
+        example: beet
+      - name: banner_title
+        example: "Branding"
+      - name: banner_class
+        example: artichoke

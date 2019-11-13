@@ -29,11 +29,7 @@
     <li><a href="#nav">Jump to navigation</a></li>
   </ul>
   <header role="banner" class="masthead" id="header">
-    {% if page.show_second_nav %}
-    {% pattern navigation/second-nav %}
-    {% else %}
-    {% pattern navigation/nav %}
-    {% endif %}
+    {% pattern navigation/nav banner_title=page.banner_title banner_class=page.banner_class %}
   </header>
   <main>
     {{content}}

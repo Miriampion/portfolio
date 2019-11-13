@@ -1,6 +1,7 @@
 ---
 layout: work
-name: "Branding"
+banner_class: artichoke
+banner_title: "Branding"
 show_second_nav: true
 pieces:
   - img: beekeeper.png

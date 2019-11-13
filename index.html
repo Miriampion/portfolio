@@ -1,5 +1,7 @@
 ---
 layout: default
+banner_class: beet
+banner_title: "Miriam P."
 ---
 <div id="work" class="grid gutter pad-t-2">
 {% pattern cards/main-card url="/branding/" image="poppy.jpg" %}
@@ -7,7 +9,8 @@ layout: default
 {% pattern cards/main-card url="/branding/" image="poppy.jpg" %}
 {% pattern cards/main-card url="/branding/" image="poppy.jpg" %}
 </div>
-{% pattern quote/quote data=Quote %}
+{% assign quote=site.quotes[1] %}
+{% pattern quote/quote data=quote %}
 <div id="about">
 {% pattern display/display-2 heading="About Me" text="A wonderful person. ZGreat designer :)" image="moi.jpg" %}
 </div>

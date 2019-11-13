@@ -1,5 +1,7 @@
 ---
 layout: work
+banner_title: "Illustration"
+banner_class: citrus
 name: "Illustration"
 show_second_nav: true
 pieces:
@@ -9,7 +11,7 @@ pieces:
   - img: theatre-poster.jpg
     title: Taking snake oil...
     desc: The type is meant
-  - img: flower.jpg
-    title: Digital Painting
-    desc: A photograph I took of a poppy, digitally painted using Photoshop pastels. I am obsessed with flowers and gardening and nature.
+  - img: tomato.jpg
+    title: Tomato
+    desc: Illustration with exploration of type and hand lettering
 ---
