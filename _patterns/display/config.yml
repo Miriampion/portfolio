@@ -18,15 +18,6 @@ patterns:
         - name: text
           type: string
           example: "StoryBee is a local Apiary that produces raw honey products and encourages education about bees and their vital relationship to the environment. The beekeeper, Kristine, is passionate about mental health and how bees relate to holistic health for marginalized populations."
-
-  display-3:
-    title: "Third display with one title"
-    description: |
-      This display will be used for the beginning of a section with several other paragraphs attached to the photos with no subheadings.
-  display-4:
-    title: "Fourth display with No title"
-    description: |
-      This display will be used for the description of the photo, no heading here as it is a simple description and follows a heading display.
   display-5:
     title: "Fifh display with No title, photo on right"
     description: |

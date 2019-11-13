@@ -16,3 +16,7 @@ patterns:
         example: "Branding"
       - name: banner_class
         example: artichoke
+      - name: banner_title
+        example: "Illustration"
+      - name: banner_class
+        example: citrus

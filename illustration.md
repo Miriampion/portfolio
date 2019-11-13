@@ -2,7 +2,6 @@
 layout: work
 banner_title: "Illustration"
 banner_class: citrus
-name: "Illustration"
 show_second_nav: true
 pieces:
   - img: theatre-poster.png
