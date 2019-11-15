@@ -13,4 +13,7 @@ pieces:
   - img: tomato.jpg
     title: Tomato
     desc: Illustration with exploration of type and hand lettering
+  - img: artichoke.png
+    title: Artichoke
+    desc: Illustration with exploration of type and hand lettering
 ---
