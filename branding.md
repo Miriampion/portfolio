@@ -3,6 +3,8 @@ layout: work
 banner_class: artichoke
 banner_title: "Branding"
 show_second_nav: true
+quote: "yftd"
+name: "nbchgc"
 pieces:
   - img: beekeeper.png
     title: StoryBee. A sweet experience.
