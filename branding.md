@@ -8,7 +8,7 @@ name: "nbchgc"
 pieces:
   - img: beekeeper.png
     title: StoryBee. A sweet experience.
-    desc: Building a brand for a small, local Apiary. We made a special visit to the hives and discussed all thing bees, honey and more. This is the beekeeper, Kristine, at work. Bees are so important and despite all their buzz, visiting the hive, is in fact, a very calming and beautiful experience. I brought my 9 year old son with me and he has a newfound reverence for bees and their amazing world.
+    desc: Building a brand for a small, local Apiary. We made a special visit to the hives and discussed all thing bees, honey and more. This is the beekeeper, Kristine, at work. Bees are so important and despite all their buzz, visiting the hive, is in fact, a very calming and beautiful experience. I brought my 9 year old son with me and he has a new found reverence for bees and their amazing world.
   - img: moodboard-bee.png
     title: Moodboard exploration of theme.
     desc: Research and interviews led to the selection of this moodboard.
