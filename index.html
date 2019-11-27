@@ -5,14 +5,14 @@ description: "A graphic design, art and illustration portfolio site for Miriam P
 banner_class: beet
 banner_title: "Miriam P."
 ---
-<div id="about" class="pad-t-2">
-{% pattern display/display-2 heading="Bonjour!" text="I believe that design is related to everything we do and how we feel about things in the world. From lighting, to landscaping, to type, I am fascinated how all of these can influence behaviors, perceptions and stories.
-I am a little bit obsessed with painting, literature, type, gardening, food, recipes and moving lots outdoors. I have been drawing and making art things since I was a child and I now draw with my 9 year old son. I am known for my positive and sparkly personality that I bring to all aspects of my life." image="me.png" %}
-{% assign quote=site.quotes[1] %}
-{% pattern quote/quote data=quote %}
 </div><div id="work" class="grid gutter pad-t-2">
 {% pattern cards/main-card url="/branding/" image="story-bee.png" %}
 {% pattern cards/main-card url="/illustration/" image="poppy.jpg" %}
 {% pattern cards/main-card url="/illustration/" image="bota-wine-label-crop.png" %}
 {% pattern cards/main-card url="/branding/" image="brightfuture.png" %}
 </div>
+{% assign quote=site.quotes[1] %}
+{% pattern quote/quote data=quote %}
+<div id="about" class="pad-t-2">
+{% pattern display/display-2 heading="Bonjour!" text="I believe that design is related to everything we do and how we feel about things in the world. From lighting, to landscaping, to type, I am fascinated how all of these can influence behaviors, perceptions and stories.
+I am a little bit obsessed with painting, literature, type, gardening, food, recipes and moving lots outdoors. I have been drawing and making art things since I was a child and I now draw with my 9 year old son. I am known for my positive and sparkly personality that I bring to all aspects of my life." image="me.png" %}
