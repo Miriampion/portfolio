@@ -10,6 +10,8 @@ patterns:
     fields:
       - name: banner_title
         example: "MiriamP."
+      -name: banner_caption
+        example: "graphic design  illustration  branding"
       - name: banner_class
         example: beet
       - name: banner_title

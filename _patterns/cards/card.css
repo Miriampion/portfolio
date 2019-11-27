@@ -16,7 +16,7 @@ a.main-card:hover .card-content::before {
 
 .main-card:hover .word {
   opacity: 1;
-  transition: all .25s ease-out;
+  transition: all .15s ease-out;
   font-size: 1.5em;
   left: 25%
 }
