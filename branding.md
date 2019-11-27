@@ -1,5 +1,7 @@
 ---
 layout: work
+pagetitle: Branding
+description: Miriam's portfolio branding
 banner_class: artichoke
 banner_title: "Branding"
 show_second_nav: true
