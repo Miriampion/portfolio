@@ -16,7 +16,7 @@ pieces:
     title: Inspiration & Stories
     desc: The beekeeper wanted to incorporate their Ukrainian heritage and story by representing the pansanky egg in the brand. The traditional Ukrainian Easter egg with exquisite patterns was very exiting to work with and gave this project a very unique touch.
   - img: sketchbook-1-bee.png
-    title: Sketches & Exploration
+    title:
     desc: Research has led to illustrative based brand that incorporates blocky text and the pysanky egg design.
   - img: sketchbook-2-bee.png
     title:
@@ -24,4 +24,7 @@ pieces:
   - img: brightfutures-mockup.png
     title: Brand for Charity Fund
     desc:
+  - img: bright-future.png
+    title:
+    desc: Creation of bright and cheery brand for a community housing project in the Capital city. The sprout represents growth and opportunity, where the house represents the physical community and the home.
 ---
