@@ -6,5 +6,3 @@ layout: default
   {% capture should_reverse %}{% cycle 'true', 'false' %}{% endcapture %}
   {% pattern display/display-2 heading=piece.title text=piece.desc image=piece.img reverse=should_reverse %}
 {% endfor %}
-
-{% pattern quote/quote data=Quote %}

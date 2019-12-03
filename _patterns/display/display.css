@@ -3,3 +3,11 @@
   overflow: hidden;
   height: auto;
 }
+
+.img-hover {
+  transition: all .21s ease-out;
+}
+
+.img-hover:hover {
+  transform: scale(1.1);
+}

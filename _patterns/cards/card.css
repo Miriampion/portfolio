@@ -10,15 +10,15 @@ a.main-card:hover .card-content::before {
 
 .word {
   opacity: 0;
-  color: #b1b1b1;
-  font-size: 1em;
 }
 
 .main-card:hover .word {
   opacity: 1;
   transition: all .15s ease-out;
-  font-size: 1.5em;
-  left: 25%
+  left: 15%;
+  bottom: 25%;
+  color: var(--color-primary-dark);
+
 }
 
 .main-card {
@@ -29,7 +29,7 @@ a.main-card:hover .card-content::before {
 }
 
 .main-card:hover {
-  opacity: 1;
+  opacity: 0.6;
   filter: grayscale(100%);
   transition: all .5s ease-in;
 }
