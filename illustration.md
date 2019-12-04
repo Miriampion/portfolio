@@ -21,4 +21,7 @@ pieces:
   - img: bota-wine-label.jpg
     title: Botanical Rhapsody
     desc: An ink and watercolour exploration of whimsical wandering.
+  - img: dreams.png
+    title: Dreams II
+    desc: An ink and watercolour exploration of whimsical wandering.
 ---
