@@ -15,10 +15,10 @@ a.main-card:hover .card-content::before {
 .main-card:hover .word {
   opacity: 1;
   transition: all .15s ease-out;
-  left:5%;
-  bottom: 5%;
-  color: var(--color-secondary);
-  background-color: var(--color-accent);
+  left:31%;
+  bottom: 75%;
+  color: var(--color-accent);
+  background-color: var(--color-secondary-light);
   border-radius: 2px;
 }
 
@@ -32,5 +32,5 @@ a.main-card:hover .card-content::before {
 .main-card:hover img {
   opacity: 0.7;
   filter: grayscale(100%);
-  transition: all .5s ease-in;
+  transition: all .15s ease-in;
 }

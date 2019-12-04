@@ -19,6 +19,7 @@ pieces:
     title:
     desc: An exploration of type and playfull ilustration
   - img: bota-wine-label.jpg
+    id: bota
     title: Botanical Rhapsody
     desc: An ink and watercolour exploration of whimsical wandering.
   - img: dreams.png

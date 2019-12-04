@@ -22,6 +22,7 @@ pieces:
     title:
     desc: More sketches. I love sketches. I love this project.
   - img: bright-futures-mock.png
+    id: future
     title: Brand for Charity Fund
     desc:
   - img: bright-future.png

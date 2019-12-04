@@ -49,6 +49,12 @@
   font-family: var(--font-tertiary);
 }
 
+.mini-descr {
+  left: 13%;
+  bottom: 52%;
+  font-size: 15px;
+}
+
 @media only screen and (min-width: 25em) {
 
   .title {
@@ -59,6 +65,11 @@
     background-size: 200%;
     background-position: center 30%;
   }
+  .mini-descr {
+    left: 18%;
+    bottom: 50%;
+  }
+
 }
 
 @media only screen and (min-width: 38em) {
@@ -91,6 +102,21 @@
   .nav-top {
     display: inline-block;
   }
+
+  .mini-descr {
+    left: 13%;
+    bottom: 10%;
+    font-size: 20px;
+}
+
+@media only screen and (min-width: 768px){
+
+  .mini-descr {
+    left: 14%;
+    bottom: 8%;
+    font-size: 20px;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -99,4 +125,11 @@
     background-size: 120%;
     background-position: center center;
   }
+
+  .mini-descr {
+    left: 13%;
+    bottom: 8%;
+    font-size: 21px;
+  }
+
 }
