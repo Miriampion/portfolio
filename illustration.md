@@ -18,11 +18,11 @@ pieces:
   - img: snakeoil-program.png
     title:
     desc: An exploration of type and playfull ilustration
-  - img: bota-wine-label.jpg
+  - img: bota-oncanvas.jpg
     id: bota
     title: Botanical Rhapsody
     desc: An ink and watercolour exploration of whimsical wandering.
-  - img: dreams.png
+  - img: dreams-on-easel-2.jpg
     title: Dreams II
     desc: An ink and watercolour exploration of whimsical wandering.
 ---

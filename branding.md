@@ -21,11 +21,11 @@ pieces:
   - img: sketchbook-2-bee.png
     title:
     desc: More sketches. I love sketches. I love this project.
-  - img: bright-futures-mock.png
+  - img: bright-futures-logo.png
     id: future
     title: Brand for Charity Fund
     desc:
-  - img: bright-future.png
+  - img: bright-futures-mock.png
     title:
     desc: Creation of bright and cheery brand for a community housing project in the Capital city. The sprout represents growth and opportunity, where the house represents the physical community and the home.
 ---
