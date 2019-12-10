@@ -27,9 +27,9 @@ pieces:
   - img: final-honey-jar-l.png
     title:
     desc: The label for the honey jars needed to incorporate all the pertinent information and of course comply with food regulation laws. There were some text that needed to be bilingual as well.
-  - img: final-honey-jar-l.png
+  - img: bus-card-l.png
     title:
-    desc: The label for the honey jars needed to incorporate all the pertinent information and of course comply with food regulation laws. There were some text that needed to be bilingual as well.
+    desc: A card that incorporates the look of the brand, including a pysanky design on the back.
   - img: bright-futures-logo.png
     id: future
     title: Brand for Charity Fund
