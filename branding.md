@@ -24,9 +24,12 @@ pieces:
   - img: story-bee.png
     title:
     desc: The original sketches and ideas came to this idea for the brand. Mixing the yellow watercolour with the hard black and blocky text. The brand feels modern and young. It also incorporates the flower pattern of the pysanky egg.
-  - img: final-honey-jar.png
+  - img: final-honey-jar-l.png
     title:
-    desc: The original sketches and ideas came to this idea for the brand. Mixing the yellow watercolour with the hard black and blocky text. The brand feels modern and young. It also incorporates the flower pattern of the pysanky egg.
+    desc: The label for the honey jars needed to incorporate all the pertinent information and of course comply with food regulation laws. There were some text that needed to be bilingual as well.
+  - img: final-honey-jar-l.png
+    title:
+    desc: The label for the honey jars needed to incorporate all the pertinent information and of course comply with food regulation laws. There were some text that needed to be bilingual as well.
   - img: bright-futures-logo.png
     id: future
     title: Brand for Charity Fund
