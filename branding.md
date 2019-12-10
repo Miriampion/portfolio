@@ -27,14 +27,14 @@ pieces:
   - img: final-honey-jar-l.png
     title:
     desc: The label for the honey jars needed to incorporate all the pertinent information and of course comply with food regulation laws. There were some text that needed to be bilingual as well.
-  - img: bus-card-l.png
+  - img: bus-card-1.png
     title:
     desc: A card that incorporates the look of the brand, including a pysanky design on the back.
   - img: bright-futures-logo.png
     id: future
-    title: Brand for Charity Fund
-    desc:
+    title: Brand for  a Charity Fund
+    desc: The creation of bright and cheery logo for a community housing project in the Capital city. The sprout represents growth and opportunity, where the house represents the physical community and the home.
   - img: bright-futures-mock.png
     title:
-    desc: Creation of bright and cheery brand for a community housing project in the Capital city. The sprout represents growth and opportunity, where the house represents the physical community and the home.
+    desc: This logo incorporates the hope that this scholarship gives to people in this community. Green was used for it's fresh and natural feel, while also representing a growing future full of promise,
 ---
