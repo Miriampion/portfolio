@@ -30,6 +30,9 @@ pieces:
   - img: bus-card-1.png
     title:
     desc: A card that incorporates the look of the brand, including a pysanky design on the back.
+  - img: black-and-white-story.png
+    title:
+    desc: Different varieties and looks for the Storybee label. This black and white shows some of my process and roughts. I am overall very proud of this beautiful brand and I have developed a fierce admiration for honeybees.
   - img: bright-futures-logo.png
     id: future
     title: Brand for  a Charity Fund
