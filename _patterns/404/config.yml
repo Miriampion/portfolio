@@ -1,0 +1,8 @@
+title: "404"
+description: |
+  This will be the 404 page
+
+patterns:
+    title: "404 page"
+    description: |
+      The main quote will be there and a lin to my home page
