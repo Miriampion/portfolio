@@ -21,6 +21,9 @@ pieces:
   - img: sketchbook-2-bee.png
     title:
     desc: More sketches. I love sketches. I love this project.
+  - img: story-bee.png
+    title:
+    desc: The original sketches and ideas came to this idea for the brand. Mixing the yellow watercolour with the hard black and blocky text. The brand feels modern and young. It also incorporates the flower pattern of the pysanky egg.
   - img: bright-futures-logo.png
     id: future
     title: Brand for Charity Fund
