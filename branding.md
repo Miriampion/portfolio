@@ -40,8 +40,8 @@ pieces:
   - img: sketchbook-bf.png
     id: future
     title:
-    desc: Process, intervies and research. All leading to sketches that demonstarted growth, hope, and the feeling of home.
+    desc: Process, interviews and research. All leading to sketches that demonstrated growth, hope, and the feeling of home.
   - img: bright-futures-mock.png
     title:
-    desc: This logo incorporates the hope that this scholarship gives to people in this community. Green was used for it's fresh and natural feel, while also representing a growing future full of promise through education.
+    desc: This logo incorporates the hope that this scholarship gives to people in this community. Green was used for the fresh and natural feel, while also representing a growing future full of promise through education.
 ---
