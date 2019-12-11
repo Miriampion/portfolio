@@ -37,7 +37,11 @@ pieces:
     id: future
     title: Brand for  a Charity Fund
     desc: The creation of bright and cheery logo for a community housing project in the Capital city. The sprout represents growth and opportunity, where the house represents the physical community and the home.
+  - img: sketchbook-bf.png
+    id: future
+    title:
+    desc: Process, intervies and research. All leading to sketches that demonstarted growth, hope, and the feeling of home.
   - img: bright-futures-mock.png
     title:
-    desc: This logo incorporates the hope that this scholarship gives to people in this community. Green was used for it's fresh and natural feel, while also representing a growing future full of promise,
+    desc: This logo incorporates the hope that this scholarship gives to people in this community. Green was used for it's fresh and natural feel, while also representing a growing future full of promise through education.
 ---
